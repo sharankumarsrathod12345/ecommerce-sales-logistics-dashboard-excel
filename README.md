@@ -3,7 +3,7 @@
 ## Project Overview
 An interactive Excel dashboard designed to analyze e-commerce performance across sales trends, customer demographics, and shipping logistics. This project transforms raw transaction data into actionable business insights to help stakeholders optimize logistics timelines, identify channel-specific growth opportunities, and track performance targets.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_interaction.gif)
 
 ---
 
