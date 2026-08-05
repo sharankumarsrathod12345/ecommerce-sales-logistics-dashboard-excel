@@ -26,6 +26,31 @@ An interactive Excel dashboard designed to analyze e-commerce performance across
 | ⭐ **Avg. Rating** | 4.0 / 5.0 | 🟡 Baseline | Solid baseline score; customer service workflows can optimize this further. |
 | 🚚 **Avg. Days to Deliver** | 2.3 Days | 🟢 Excellent | Fulfillment cycle is highly efficient across main shipping lanes. |
 
+---
+
+### 📊 Dynamic KPI Capabilities
+
+The dashboard architecture features an automated Key Performance Indicators (KPI) tracking tier. Instead of static snapshots, these monitoring modules are engineered to dynamically process raw, changing transaction rows to empower stakeholders with the following diagnostic features:
+
+* 📦 **Volume & Throughput Monitoring (Total Orders & Quantity):** Continuously tracks real-time transaction density and velocity. This allows operations managers to instantly scale warehousing staff and ensure processing lines match active customer demand profiles.
+* 💰 **Revenue Architecture (Total Amount Tracking):** Aggregates cross-platform gross revenue across regional boundaries. This equips financial teams to track sales target margins dynamically and evaluate the instant fiscal health of localized market expansions (e.g., California channels).
+* ⭐ **Customer Sentiment Analysis (Average Rating tracking):** Calculates real-time rolling customer satisfaction parameters. This serves as an automated early-warning system, enabling service desks to flag immediate logistics bottlenecks or product quality drop-offs before brand equity is impacted.
+* 🚚 **Logistics Turnaround Engine (Avg. Days to Deliver):** Measures pipeline efficiency intervals by continuously tracking fulfillment cycles. This calculation isolates shipping lanes experiencing transit fatigue, helping supply chain managers renegotiate courier contracts or restructure delivery windows.
+
+### 🚨 Automated Alerting Thresholds & Operational Signaling
+
+To prevent information overload, the dashboard integrates automated visual signaling rules. The KPI modules instantly recalculate and change color states based on strict operational data rules, allowing management to manage by exception:
+
+* 🟢 **Target Achieved / Healthy State:** 
+  * *Condition:* Orders tracking stable, delivery times $\le$ 2.5 days, or Average Rating $\ge$ 4.0.
+  * *Business Signal:* Operations are running smoothly within standard capacity. No immediate tactical action required.
+* 🟡 **Warning / Variance Detected:** 
+  * *Condition:* Average Rating drops between 3.5 and 3.9, or Delivery Times drift between 2.6 and 3.5 days.
+  * *Business Signal:* Early indicator of supply chain friction or localized customer dissatisfaction. Triggers a mandatory review of courier lanes or recent customer feedback logs.
+* 🔴 **Critical Action Required:** 
+  * *Condition:* Average Rating falls below 3.5, or Delivery Times spike past 3.5 days.
+  * *Business Signal:* High-priority operational bottleneck. Automatically signals management to intervene, pause underperforming shipping lanes, or adjust warehouse fulfillment priorities to protect brand equity.
+
 ### 🎯 Business Questions Addressed
 
 * **1. Trend in the last 13 weeks:** How is our volume shifting over a rolling fiscal quarter?
