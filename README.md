@@ -7,6 +7,10 @@ An interactive Excel dashboard designed to analyze e-commerce performance across
   <img src="images/dashboard_interaction.gif" max-width="100%" height="auto" alt="Dashboard Preview">
 </p>
 
+<p align="center">
+  <video src="https://github.com" width="100%" autoplay loop muted playsinline></video>
+</p>
+
 ![Dashboard Preview](images/dashboard_preview.png)
 
 ---
