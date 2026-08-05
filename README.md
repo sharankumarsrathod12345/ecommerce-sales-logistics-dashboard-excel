@@ -7,13 +7,6 @@ An interactive Excel dashboard designed to analyze e-commerce performance across
   <img src="images/dashboard_interaction.gif" max-width="100%" height="auto" alt="Dashboard Preview">
 </p>
 
-<p align="center">
-  <img src="images/dashboard_interaction.gif" style="width: 100%; max-width: 100%; image-rendering: pixelated;" alt="Dashboard Preview">
-</p>
-
-
-
-
 ![Dashboard Preview](images/dashboard_preview.png)
 
 ---
@@ -26,6 +19,8 @@ An interactive Excel dashboard designed to analyze e-commerce performance across
 * **Total Amount**: Gross revenue breakdown generated across all platforms.
 * **Avg. Rating**: Aggregated metric evaluating baseline customer satisfaction.
 * **Avg. Days to Deliver**: Key operational pipeline timeline metric tracking fulfillment efficiency.
+
+https://github.com/user-attachments/assets/13bca340-537b-47f9-96eb-a001de1e3a1a
 
 ### Business Questions Addressed
 1. **Trend in the last 13 weeks**: How is our volume shifting over a rolling fiscal quarter?
@@ -51,3 +46,4 @@ An interactive Excel dashboard designed to analyze e-commerce performance across
 * **Complex Formula Design**: Leveraged analytical functions including `XLOOKUP`, `INDEX/MATCH` matrix structures, and logical nested `IF` chains for clean extract-transform-load (ETL) processing.
 * **UI/UX Engineering**: Structured interactive dashboards utilizing synchronized cross-filtering slicers, localized map chart visualizations, and locked sheet structure controls to prevent end-user formatting breaks.
 * **Pivot Integration Layer**: Constructed isolated data aggregation matrices to dynamically update front-end visualizations without introducing processing latency.
+
