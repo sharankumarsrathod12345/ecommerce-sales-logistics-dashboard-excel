@@ -3,7 +3,7 @@
 
 An interactive workbook for exploring transaction patterns and operational measures in an e-commerce dataset.
 
-[Dashboard workbook](dashboard/ecommerce-sales-logistics-dashboard.xlsx) · [Source workbook](dataset/dataset.xlsx) · [Interaction video](images/dashboard_interaction.mp4)
+[Dashboard workbook](dashboard/ecommerce-sales-logistics-dashboard.xlsx) · [Source workbook](dataset/dataset.xlsx) · [Interaction demo](images/dashboard_interaction.gif)
 
 ![Dashboard preview](images/dashboard_preview.png)
 
@@ -50,7 +50,7 @@ These are validation requirements, not completed test results.
 | --- | --- |
 | [dashboard](dashboard/) | Excel dashboard |
 | [dataset](dataset/) | Source workbook |
-| [images](images/) | Screenshot, GIF, and video walkthrough |
+| [images](images/) | Screenshot and animated GIF walkthrough |
 
 ## Project boundaries
 
