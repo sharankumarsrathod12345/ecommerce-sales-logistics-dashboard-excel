@@ -1,4 +1,6 @@
 # E-Commerce Sales & Logistics Dashboard
+
+[Explore my portfolio](https://sharankumarsrathod12345.github.io/) · [Discuss a project on Upwork](https://www.upwork.com/freelancers/~01db224cb89f18ba29)
 **Excel portfolio project · Sales channels · Customer ratings · Delivery performance**
 
 An interactive workbook for exploring transaction patterns and operational measures in an e-commerce dataset.
